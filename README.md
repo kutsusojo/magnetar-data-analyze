@@ -1,7 +1,7 @@
 # magnetar-data-analyze
 
 
-### CODE FILES ARE IN MASTER BRUNCH ### 
+### CODE FILES ARE IN MASTER BRANCH ### 
 
 
 Python code aiming to illustrate radiation mechanism of magnetars.
